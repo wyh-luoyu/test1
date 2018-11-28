@@ -7,3 +7,5 @@ disetasdfas
 阿里山的减肥啦开始的风口浪尖
 
 Git has a mutable index called stage.
+
+Git tracks changes.
